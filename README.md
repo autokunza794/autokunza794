@@ -18,24 +18,6 @@
       <p>Hi, I am Jack, focusing on creating emotional experiences</p>
       <button>Here Me</button>
 </section>
-    <hr />
-
-    <!-- about us -->
-  <article>
-    <section id="aboutus">
-    บทความสั้น ๆ เช่น ประวัติส่วนตัว ประสบการณ์ และบทความที่เกี่ยวข้อง 
-    </section>
-
-    <hr />
-
-    <!-- portfolio -->
-    <section id="portfolio">
-      แกลลอรี่รูปภาพ
-    </section>
-  </article>
-</main>
-
-  <hr />
 
   <!-- contact -->
   <footer id="contact">
