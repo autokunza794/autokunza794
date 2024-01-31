@@ -2,7 +2,6 @@
 <html lang="th">
 
 <head>
-  <img src="" class="title">
 </head>
 
 <body>
