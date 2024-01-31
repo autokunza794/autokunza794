@@ -2,22 +2,23 @@
 <html lang="th">
 
 <head>
-  <title>ชื่อเว็บไซต์</title>
+  <img src="" class="title">
 </head>
 
 <body>
   <!-- Nav bar -->
   <header>
-   <nav>ส่วนหัวของเว็บไซต์ ใส่เว็บ โลโก้ และ เมนู</nav>
+   <nav> </nav>
   </header>
 
   <!-- main -->
 <main>
-    <!-- hero section-->
-    <section id="home">
-     ส่วนแสดงแบนเนอร์ รูปภาพเด่น ๆ หริอข้อความไฮไลท์ที่ต้องการนำเสนอ
-    </section>
-
+<section id="home">
+      <img src="https://raw.githubusercontent.com/autokunza794/autokunza794/main/Black%20and%20White%20Minimalist%20Professional%20Initial%20Logo.png" />
+      <h2>Visual Designer & Art Director</h2>
+      <p>Hi, I am Jack, focusing on creating emotional experiences</p>
+      <button>Here Me</button>
+</section>
     <hr />
 
     <!-- about us -->
