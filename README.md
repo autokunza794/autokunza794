@@ -14,7 +14,7 @@
 <main>
 <section id="home">
       <img src="https://raw.githubusercontent.com/autokunza794/autokunza794/main/Black%20and%20White%20Minimalist%20Professional%20Initial%20Logo.png" />
-      <h2>Visual Designer & Art Director</h2>
+      <h2>Portfoilo</h2>
       <button>Here Me</button>
 </section>
 
