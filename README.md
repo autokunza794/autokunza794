@@ -21,7 +21,9 @@
 
   <!-- contact -->
   <footer id="contact">
-    ส่วนติดต่อเรา มีแบบฟอร์ม และลิงค์ภายในหน้า
+   สวัสดีครับ ผมเป็น Dev ในเซิฟเวอร์ minecraft nightmare official 
+  <br><br>
+    Hello i'm Dev in server minecraft nightmare official 
   </footer>
 
 </body>
